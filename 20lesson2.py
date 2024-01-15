@@ -4,7 +4,7 @@ Created on Sat Jan 13 20:34:09 2024
 
 @author: yuldo
 """
-
+'''
 def user_info(ismi, familiyasi, tugilgan_yili, tugilgan_joyi, email_manzili='', telefon_raqami=None):
     user_infos = {'ism': ismi,
                   'familiya': familiyasi,
@@ -38,3 +38,4 @@ for mijoz in mijozlar:
           f"{mijoz['yoshi']}-yoshda, "
           f"telefon raqami: {mijoz['telefon_raqam']}, "
           f"email: {mijoz['email_manzili']}")
+'''
